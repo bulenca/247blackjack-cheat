@@ -70,7 +70,7 @@
             localStorage.setItem('com.games247.blackjack.247.Bank', JSON.stringify({
                 bank : Number(document.querySelector('#guiInputMoney').value)
             }));
-            window.open("https://discord.gg/SpD2T5m");
+            window.open("https://discord.gg/ZzXU4K8");
             window.location.reload();
         } else {
             alert('The number not exist!')
