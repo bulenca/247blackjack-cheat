@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         247BlackJack.menu
 // @namespace    https://discord.gg/SpD2T5m
-// @version      0.1
+// @version      1.0.0
 // @description  The money cheat BlackJackMenu
 // @author       bulenca#0001
 // @match        https://www.247blackjack.com/
