@@ -1,2 +1,3 @@
-# blackJack247-cheat
-requires tampermonkey
+# 247blackjack-cheat
+
+requires tampermonkey https://www.tampermonkey.net/
